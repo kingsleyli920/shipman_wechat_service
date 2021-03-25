@@ -1,0 +1,1 @@
+# shipman_wechat_service
